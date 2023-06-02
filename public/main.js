@@ -1,6 +1,7 @@
 const sources = {
     http: [
         "http://proxysearcher.sourceforge.net/Proxy%20List.php?type=http",
+        "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
         "https://openproxy.space/list/http",
         "https://proxyspace.pro/http.txt",
         "https://rootjazz.com/proxies/proxies.txt",
@@ -25,6 +26,7 @@ const sources = {
     socks4: [
         'http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks', 
         'https://openproxy.space/list/socks4', 
+        'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt',
         'https://proxyspace.pro/socks4.txt', 
         'https://www.proxy-list.download/api/v1/get?type=socks4', 
         'https://proxyhub.me/en/all-socks4-proxy-list.html', 
@@ -51,7 +53,8 @@ const sources = {
         'https://cdn.jsdelivr.net/gh/mmpx12/proxy-list/socks5.txt', 
         'https://cdn.jsdelivr.net/gh/roosterkid/openproxylist/SOCKS5_RAW.txt', 
         'https://cdn.jsdelivr.net/gh/saschazesiger/Free-Proxies/proxies/socks5.txt', 
-        'https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks5.txt'
+        'https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks5.txt',
+        'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
     ]
 }
 
