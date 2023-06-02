@@ -21,7 +21,8 @@ const sources = {
         "https://cdn.jsdelivr.net/gh/roosterkid/openproxylist/HTTPS_RAW.txt",
         "https://cdn.jsdelivr.net/gh/saschazesiger/Free-Proxies/proxies/http.txt",
         "https://cdn.jsdelivr.net/gh/ShiftyTR/Proxy-List/https.txt",
-        "https://cdn.jsdelivr.net/gh/sunny9577/proxy-scraper/proxies.txt"
+        "https://cdn.jsdelivr.net/gh/sunny9577/proxy-scraper/proxies.txt",
+        "https://openproxylist.xyz/http.txt"
     ],
     socks4: [
         'http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks', 
@@ -37,7 +38,8 @@ const sources = {
         'https://cdn.jsdelivr.net/gh/jetkai/proxy-list/online-proxies/txt/proxies-socks4.txt', 
         'https://cdn.jsdelivr.net/gh/roosterkid/openproxylist/SOCKS4_RAW.txt', 
         'https://cdn.jsdelivr.net/gh/saschazesiger/Free-Proxies/proxies/socks4.txt', 
-        'https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks4.txt'
+        'https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks4.txt',
+        'https://openproxylist.xyz/socks4.txt'
     ],
     socks5: [
         'http://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks', 
@@ -54,7 +56,8 @@ const sources = {
         'https://cdn.jsdelivr.net/gh/roosterkid/openproxylist/SOCKS5_RAW.txt', 
         'https://cdn.jsdelivr.net/gh/saschazesiger/Free-Proxies/proxies/socks5.txt', 
         'https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks5.txt',
-        'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt'
+        'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt',
+        'https://openproxylist.xyz/socks.txt'
     ]
 }
 
